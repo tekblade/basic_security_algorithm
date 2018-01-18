@@ -1,7 +1,6 @@
 
 /*
 My assumptions is that you have on your computer created directories to check my task works with your data
-In my understanding I have to do iterface that is used by another person which simplifies his task in doing algorithm or inversely
 */
 
 package task1;
