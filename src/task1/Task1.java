@@ -186,4 +186,4 @@ public class Task1 {
     }
 }
 //Every next program's run there's need to be my created file "LukaszGrabiasOutput.txt" to be deleted
-//regards Lukas Grabias
+//regards Lukas
