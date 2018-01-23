@@ -3,7 +3,7 @@ Dividing one file into few Files and sending separately to provide security info
 
 # Problem:
 To increase security your company implemented a new communication protocol for employees. Starting
-from now, all the encrypted files need to be divided into multiple files and then sent using different
+from now, the encrypted file need to be divided into multiple files with mixed every lines and then sent using different
 protocols.
 # The process of dividing the encrypted file is as follows:
 # 1. Read next line from the encrypted file.
