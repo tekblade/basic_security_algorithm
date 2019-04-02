@@ -1,3 +1,4 @@
+# After unziping change the folder name(delete "-master")
 # basic_security_algorithm
 Dividing one file into few Files and sending separately to provide security information. Netbeans used as programming environment. Not tested yet with modern tools specialized in. 
 
